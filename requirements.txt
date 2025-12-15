@@ -9,3 +9,6 @@ fastapi==0.104.1
 uvicorn==0.24.0
 woe==0.1.5  
 flake8==6.1.0
+mlflow==2.7.1
+xgboost==1.7.6  # For XGB
+pytest==7.4.3
